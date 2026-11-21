@@ -1,5 +1,7 @@
 # Heart Stroke Prediction App
 
+**Live demo:** https://heartstroke-predictor-dc.streamlit.app
+
 A Streamlit web app that predicts heart disease (heart stroke) risk from 11 clinical inputs,
 using a Logistic Regression model (87.1% test accuracy) trained on the Kaggle Heart Failure
 Prediction dataset (918 patients).
